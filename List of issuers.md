@@ -6,7 +6,7 @@
 |-------------|-------------------|---------------|-----------------|--------------|-------------------------|
 | Norway      | DigDir            | https://bevisporten.test.eidas2sandkasse.net/start-issuance?credential_configuration_id=no.digdir.eudiw.webuild.pid_sd_jwt_vc | Reference wallet |              | Ongoing |
 | Sweden      | ? (test)       |               |                 |              | ? |
-| Netherlands | KvK (test)        |               | [NL Wallet by KVK](https://wallet-connect.eu/?mode=personal&lang=en) |              | |
+| Netherlands | KvK (test)        |               | [NL Wallet by KVK](https://wallet-connect.eu/?mode=personal&lang=en) |              | ✅|
 | Germany     | ? (test)          |               |                 |              | |
 | France      | Docaposte (test)  | not publicly accessible yet              | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |              | ✅ |
 | Moldova     | eGov              | https://wallet.dev.egov.md/rp-tester/credential-offer | evo |              | |
@@ -23,9 +23,9 @@
 |-------------|-------------------|---------------|-----------------|--------------|-------------------------|
 | Norway      | BRC               |               |                 |              |  |
 | Sweden      | Bolagsverket      | not publicly accessible yet               | [iGrant.io](https://webuild-consortium.github.io/wp4-wallets-group/?id=52)          |              | ✅ |
-| Netherlands | KvK               |               | [NL Wallet by KVK](https://wallet-connect.eu/?mode=personal&lang=en) |              |  |
+| Netherlands | KvK               |               | [NL Wallet by KVK](https://wallet-connect.eu/?mode=personal&lang=en) |              | ✅ |
 | Germany     | Bundesanzeiger    | https://eida-issuer.spherity.dev/attested-issuance              | [Spherity](https://webuild-consortium.github.io/wp4-wallets-group/?id=75) |              | ✅ |
-| France      | Docaposte         |               | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |              | Registered |
+| France      | Docaposte         |               | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |              | ✅ |
 | Moldova     | eGov              | https://wallet.dev.egov.md/rp-tester/credential-offer | evo |              | Ongoing |
 |  -           |                   |               |                 |              | |
 | Generic     | eGov              | https://wallet.dev.egov.md/rp-tester/credential-claims | evo                |              | |
