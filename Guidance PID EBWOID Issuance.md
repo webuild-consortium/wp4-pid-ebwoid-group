@@ -1,4 +1,4 @@
-# Guideline for PID and EBWOID issuers
+# Guidance for PID and EBWOID issuers
 
 
 ## Trust list registration</br>
