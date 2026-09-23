@@ -24,7 +24,7 @@
 | Norway      | BRC               |               |                 |              |  |
 | Sweden      | Bolagsverket      |               | [iGrant.io](https://webuild-consortium.github.io/wp4-wallets-group/?id=52)          |              | Ongoing |
 | Netherlands | KvK               |               | [NL Wallet by KVK](https://wallet-connect.eu/?mode=personal&lang=en) |              |  |
-| Germany     | Bundesanzeiger    |               | [Spherity](https://webuild-consortium.github.io/wp4-wallets-group/?id=75) |              | ✅ |
+| Germany     | Bundesanzeiger    | https://eida-issuer.spherity.dev/attested-issuance              | [Spherity](https://webuild-consortium.github.io/wp4-wallets-group/?id=75) |              | ✅ |
 | France      | Docaposte         |               | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |              | Registered |
 | Moldova     | eGov              | https://wallet.dev.egov.md/rp-tester/credential-offer | evo |              | Ongoing |
 |             |                   |               |                 |              | |
