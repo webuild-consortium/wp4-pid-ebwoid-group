@@ -1,4 +1,6 @@
-# Q&A
+# Guideline for PID and EBWOID issuers
+
+
 ## Trust list registration</br>
 See instructions here:  https://github.com/webuild-consortium/wp4-trust-group/blob/main/task1-use-cases/subtask1-1-onboarding/trusted-lists-onboarding.md
 
