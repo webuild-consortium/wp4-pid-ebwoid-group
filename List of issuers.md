@@ -21,7 +21,7 @@
 
 | Country     | Organisation      | Endpoint link | Wallet provider | ITB conformance | Trust list registered |
 |-------------|-------------------|---------------|-----------------|--------------|-------------------------|
-| Norway      | BRC               |               |                 |              |  |
+| Norway      | BRC               | https://login.test.idporten.no/authorize/selector              |                 |              |  |
 | Sweden      | Bolagsverket      | not publicly accessible yet               | [iGrant.io](https://webuild-consortium.github.io/wp4-wallets-group/?id=52)          |              | ✅ |
 | Netherlands | KvK               |               | [NL Wallet by KVK](https://wallet-connect.eu/?mode=personal&lang=en) |              | ✅ |
 | Germany     | Bundesanzeiger    | https://eida-issuer.spherity.dev/attested-issuance              | [Spherity](https://webuild-consortium.github.io/wp4-wallets-group/?id=75) |              | ✅ |
