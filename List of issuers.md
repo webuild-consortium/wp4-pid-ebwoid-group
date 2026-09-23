@@ -1,0 +1,15 @@
+# List of PID and EBWOID issuers
+
+
+| Country     | PID              | Endpoint link | Wallet provider             | ITB Onboarded         | Trust list registered      | Test data | EBWOID         | Endpoint link | Wallet provider             | ITB      | Trust list             | Test data |
+|-------------|------------------|---------------|-----------------------------|-----------------------|----------------------------|-----------|----------------|---------------|-----------------------------|----------|------------------------|-----------|
+| Norway      | DigDir           |               | reference wallet            | not yet. Need to pass | Not registered yet         |           | BRC            |               |                             |          | Not yet                |           |
+| Sweden      | Digg (test)      |               |                             |                       | ?                          |           | Bolagsverket   |               | iGrant                      | check    | Not yet                |           |
+| Netherlands | KvK (test)       |               | NPWallet                    | check                 | Not yet                    |           | KvK            |               | NBWallet                    | check    | Not yet                |           |
+| Germany     | ? (test)         |               |                             |                       | Louise contacts Governikus |           | Bundesanzeiger |               | Spherity                    | check    | Yes                    |           |
+| France      | Docaposte (test) |               | Wallet enterprise docaposte | check                 | registered                 |           | Docaposte      |               | wallet enterprise docaposte | check    | registered             |           |
+| Moldova     | eGov             |               | evo                         | not yet.              | Tried. Not working yet     |           | eGov           |               | evo                         | not yet. | Tried. Not working yet |           |
+|             |                  |               |                             |                       |                            |           |                |               |                             |          |                        |           |
+| Generic     | eGov             |               |                             |                       |                            |           |                |               |                             |          |                        |           |
+|             | Docaposte        |               |                             |                       |                            |           |                |               |                             |          |                        |           |
+|             |                  |               |                             |                       |                            |           |                |               |                             |          |                        |           |
