@@ -1,8 +1,11 @@
+
 # WE Build: WP4 PID EBWOID Group
 
 The [WE BUILD](https://www.webuildconsortium.eu/) WP4 PID EBWOID group uses this repository to collaborate on the creation of Consortium deliverables and documentation to ensure the successful pilot of our use case.
 
-- [Documentation](docs/README.md)
+**Documentation**
+- [List of PID and EBWOID issuers including endpoint](docs/List%20of%20issuers.md)
+- [Guidance for PID and EBWOID issuers](docs/Guidance%20PID%20EBWOID%20Issuance.md)
 
 ## Contributing
 
