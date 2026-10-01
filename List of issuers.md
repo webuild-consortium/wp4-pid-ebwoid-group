@@ -13,7 +13,7 @@ Country-specific issuers — issuing PID representing a particular Member State/
 | Germany     | ? (test)          |               |                 |              | |
 | France      | Docaposte (test)  | not publicly accessible yet              | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |              | ✅ |
 | Moldova     | eGov              | https://wallet.dev.egov.md/rp-tester/credential-offer | evo |              | |
-| Czechia     | Aricoma           | https://lsps.demo.eudiw.cz/pid-issuer | RI EUDIW | ✅ | ✅ |
+| Czechia     | Aricoma (test)          | https://lsps.demo.eudiw.cz/pid-issuer | RI EUDIW | ✅ | ✅ |
 
 
 ### Generic PID test issuers
@@ -35,7 +35,7 @@ Country-specific issuers — issuing EBWOID representing a particular Member Sta
 | Sweden      | Bolagsverket      | not publicly accessible yet               | [iGrant.io](https://webuild-consortium.github.io/wp4-wallets-group/?id=52)          |              | ✅ |
 | Netherlands | KvK               |               | [NL Wallet by KVK](https://wallet-connect.eu/?mode=personal&lang=en) |              | ✅ |
 | Germany     | Bundesanzeiger    | https://eida-issuer.spherity.dev/attested-issuance              | [Spherity](https://webuild-consortium.github.io/wp4-wallets-group/?id=75) |              | ✅ |
-| France      | Infogreffe         |               | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |              | ✅ |
+| France      | Infogreffe (Authentic source) </br> Docapost (Technical issuer)       |               | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |              | ✅ |
 | Moldova     | eGov              | https://wallet.dev.egov.md/rp-tester/credential-offer | evo |              | Ongoing |
 
 
