@@ -14,7 +14,7 @@ Country-specific issuers — issuing PID representing a particular Member State/
 | France      | Docaposte (test) | not publicly accessible yet                                                                                                                        | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |                 | ✅                    |
 | Moldova     | eGov             | https://wallet.dev.egov.md/rp-tester/credential-offer                                                                                              | evo                                                                            |                 |                       |
 | Czechia     | Aricoma (test)   | https://lsps.demo.eudiw.cz/pid-issuer                                                                                                              | RI EUDIW                                                                       | ✅              | ✅                    |
-                    |
+| Finland     | Vero             | https://vero-wb-vrk-web-stag.minisuomi.net                                                                                                         | Credenco                                                                       |                 |                       |
 
 ### Generic PID test issuers
 The following issuers can issue PID test credentials for multiple countries and are intended for interoperability and testing within WE BUILD.
@@ -36,6 +36,7 @@ Country-specific issuers — issuing EBWOID representing a particular Member Sta
 | Germany     | Bundesanzeiger                                                  | https://eida-issuer.spherity.dev/attested-issuance    | [Spherity](https://webuild-consortium.github.io/wp4-wallets-group/?id=75)      |                 | ✅                    |
 | France      | Infogreffe (Authentic source) </br> Docapost (Technical issuer) |                                                       | [Docaposte](https://webuild-consortium.github.io/wp4-qtsp-group/?id=docaposte) |                 | ✅                    |
 | Moldova     | eGov                                                            | https://wallet.dev.egov.md/rp-tester/credential-offer | evo                                                                            |                 | Ongoing               |
+| Finland     | Vero(test)                                                      | https://vero-wb-prh-web.minisuomi.net                                                                                                      | Credenco                                                                       |                 |                       |
 
 
 ### Generic EBWOID test issuers
